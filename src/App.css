@@ -1,0 +1,17 @@
+.actions{
+    opacity: 0;
+}
+tr:hover .actions {
+    opacity: 1;
+}
+tbody td a{
+    color: #4e4e4e;
+    text-decoration: none;
+    margin: 5px;
+}
+tbody td .Avatar{
+    margin-right: 5px;
+}
+.edit-form input{
+    margin-bottom: 10px;
+}
