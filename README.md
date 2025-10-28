@@ -46,7 +46,7 @@ Contacts_Management/
 │ ├── App.test.js  
 │ ├── index.css # Global CSS for the entire application  
 │ ├── index.js # Entry point of the React application, renders <App />  
-│ ├── reportWebVitals.js 
+│ ├── reportWebVitals.js  
 │ ├── setupTests.js   
 │ └── store.js # Redux store configuration  
 ├── .gitignore   
