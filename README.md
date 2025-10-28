@@ -39,7 +39,7 @@ Contacts_Management/
 │ ├── constant/  
 │ │ └── type.jsx # Defines action type constants for Redux  
 │ ├── reducers/   
-│ │ ├── ContactReducer.jsx # Contacts CRUD operation logic
+│ │ ├── ContactReducer.jsx # Contacts CRUD operation logic  
 │ │ └── Index.jsx # Combines every reducers into one    
 │ ├── App.css # Global CSS for the App component  
 │ ├── App.js # Main App component, root of React component tree  
